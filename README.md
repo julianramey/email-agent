@@ -1,4 +1,4 @@
-# AI Email Agent (Monica)
+# AI Email Agent
 
 This project provides a framework for an AI-powered email assistant that can automatically read, filter, and draft replies to incoming emails. It uses the Microsoft Graph API to interact with an Outlook/Microsoft 365 mailbox and a large language model (LLM) like OpenAI's GPT for generating replies.
 
@@ -45,8 +45,8 @@ The system is designed to be customizable, allowing users to define the AI's per
 
 1.  **Clone the Repository:**
     ```bash
-    git clone github.com/julianramey/monica
-    cd monica
+    git clone github.com/julianramey/email-agent
+    cd email-agent
     ```
 
 2.  **Install Dependencies:**
